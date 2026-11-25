@@ -18,7 +18,7 @@
 
 ## Материалы 
 
-- [Отчёт: концепция ИС](lab1/report.md)
-- [BPMN: обращение и пробное занятие](lab1/diagrams/01-intake.svg)
-- [BPMN: занятие, прогресс и расчёты](lab1/diagrams/02-lesson.svg)
+- [Отчёт: концепция ИС](lab2/report.md)
+- [BPMN: обращение и пробное занятие](lab2/diagrams/01-intake.svg)
+- [BPMN: занятие, прогресс и расчёты](lab2/diagrams/02-lesson.svg)
 - [ЛР3: модели бизнес-процессов IDEF0, AS-IS и TO-BE](lab3/TutorIS-LR3.pdf)
